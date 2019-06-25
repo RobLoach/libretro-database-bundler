@@ -1,0 +1,18 @@
+[submodule "libretro-dats"]
+	path = libretro-dats
+	url = https://github.com/RobLoach/libretro-dats.git
+[submodule "libretro-database"]
+	path = libretro-database
+	url = https://github.com/libretro/libretro-database.git
+[submodule "libretro-database-tic80"]
+	path = libretro-database-tic80
+	url = https://github.com/RobLoach/libretro-database-tic80.git
+[submodule "libretro-database-gametdb"]
+	path = libretro-database-gametdb
+	url = https://github.com/RobLoach/libretro-database-gametdb.git
+[submodule "libretro-database-goodtools"]
+	path = libretro-database-goodtools
+	url = https://github.com/RobLoach/libretro-database-goodtools.git
+[submodule "libretro-database-dos"]
+	path = libretro-database-dos
+	url = https://github.com/RobLoach/libretro-database-dos.git

@@ -28,3 +28,6 @@
 	url = https://github.com/RobLoach/libretro-dats.git
 	ignore = all
 	branch = master
+[submodule "libretro-database-scummvm"]
+	path = libretro-database-scummvm
+	url = https://github.com/RobLoach/libretro-database-scummvm.git
